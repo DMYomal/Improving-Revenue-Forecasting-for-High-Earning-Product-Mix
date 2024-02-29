@@ -1,5 +1,12 @@
 This project is regarding the Improving Revenue Forecasting for High Earning Product Mix in Ecommerce with comprehensive approach of machine learing and time series forecasting and sentiment analysis
 
+ -Sentiment Analysis (VADER Approach)
+ - Outlier Handling (IQR)
+ - Time Sreise Forecasting (Simple Moving Average/ ARIMA (Univariate Analysis) / VAR Model (Multivariate Analysis))
+ - Principle Component Analysis and One Hot encording for dimention reduction
+ - Machine Learing Approaches (Linear Regression /  Decision Tree Regression/  Random Forest Regression/  XGBoost/  ADABoost)
+ - Model Eveluation (Mean Squared Error/ Root Mean Squared Error/  Mean Absolute Error/  Mean Absolute Percentage Error/  r2 Score (Coefficient of Determination))
+
 The code files need to be saved in a script Folder
 The data files (.csv) need to be saved in data Folder
 
