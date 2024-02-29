@@ -1,0 +1,10 @@
+Column Name,ADF Test Statistic,p-value,#Lags Used,Num of Observations Used,Result
+neu,-3.10556,0.02614,0.00000,86.00000,Reject Ho (stationary)
+pos,-2.31177,0.16820,9.00000,77.00000,Weak evidence against Ho (non-stationary)
+compound,-2.24985,0.18865,9.00000,77.00000,Weak evidence against Ho (non-stationary)
+Revenue,-3.11752,0.02528,0.00000,86.00000,Reject Ho (stationary)
+neg,-3.46043,0.00906,0.00000,86.00000,Reject Ho (stationary)
+price,-3.05214,0.03030,0.00000,86.00000,Reject Ho (stationary)
+sales_qty,-3.26929,0.01631,0.00000,86.00000,Reject Ho (stationary)
+review_score,-2.15601,0.22260,9.00000,77.00000,Weak evidence against Ho (non-stationary)
+freight_value,-3.09854,0.02666,0.00000,86.00000,Reject Ho (stationary)
