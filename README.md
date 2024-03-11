@@ -1,6 +1,7 @@
+<h1>Improving Revenue Forecasting for High-Earning Product Mix in E-commerce with Sentiment Analysis (A Comprehensive Approach with Time Series Forecasting, Machine Learning and NLP)</h1>
 This project is regarding the Improving Revenue Forecasting for High Earning Product Mix in Ecommerce with comprehensive approach of machine learing and time series forecasting and sentiment analysis
 
- -Sentiment Analysis (VADER Approach)
+ - Sentiment Analysis (VADER Approach)
  - Outlier Handling (IQR)
  - Time Sreise Forecasting (Simple Moving Average/ ARIMA (Univariate Analysis) / VAR Model (Multivariate Analysis))
  - Principle Component Analysis and One Hot encording for dimention reduction
@@ -10,7 +11,7 @@ This project is regarding the Improving Revenue Forecasting for High Earning Pro
 The code files need to be saved in a script Folder
 The data files (.csv) need to be saved in data Folder
 
-Abstract
+<h2>Abstract</h2>
 
 In the dynamic landscape of 21st-century e-commerce, where consumer behaviors evolve rapidly, 
 strategic foresight into future cash flows is imperative for business success. This research employs 
@@ -23,9 +24,9 @@ machine learning regression models such as Multiple Linear Regression, Decision 
 Forest, XGBoost, and AdaBoost. This comprehensive methodology aims to refine revenue 
 forecasting for high-earning product mixes, providing valuable insights for strategic decisionmaking in the competitive e-commerce landscape.
 
-Conclusion
+<h2>Conclusion</h2>
 
-6.1 Summary of Findings
+<h3>Summary of Findings</h3>
 
 The research focuses on forecasting revenue for the highest-earning product mix on an ecommerce platform using a combination of product category features, time series elements, and 
 customer sentiments which successfully fills the research gap. Here, 15 top revenue-generating 
@@ -49,7 +50,7 @@ been analyzed and new feature engineering step has employed both the VAR model a
 machine learning approach. As mentioned before the VAR model did not perform well and with 
 the new features and the ML models able to predict better than the traditional forecasting methods.
 
-6.2 What Went Well: Effectiveness and Implication of the Comprehensive Approach
+<h3>What Went Well: Effectiveness and Implication of the Comprehensive Approach</h3>
 
 Contemporary e-commerce employs diverse revenue-generating strategies. This study specifically 
 focuses on identifying the optimal product mix for maximum revenue, applicable across the ecommerce platform. 
@@ -65,7 +66,7 @@ revenue forecast models. These insights provide valuable considerations for futu
 Furthermore, the EDA and sentiment analysis of e-commerce data reveal discernible trends in sales 
 and revenue, offering valuable insights for strategic decision-making.
 
-6.3 Significance for Business Strategy and Practical Applications in E-commerce
+<h3>Significance for Business Strategy and Practical Applications in E-commerce</h3>
 
 Undoubtedly, e-commerce has emerged as a superior alternative to traditional retail, prompting 
 businesses to transition to digital platforms or maintain a hybrid presence. Utilizing time series 
@@ -79,7 +80,7 @@ categories or vendors within multivendor platforms can provide valuable insights
 in growing their businesses. This targeted approach aids in strategic decision-making for both the 
 platform and individual sellers.
 
-6.4 Limitations of the research
+<h3>Limitations of the research</h3>
 
 A primary limitation of this research is the restricted access to comprehensive e-commerce 
 company revenue datasets. Non-disclosure agreements of companies often prevent the sharing of 
@@ -98,7 +99,7 @@ Methods, etc., are employed for hyperparameter tuning, but they demand significa
 power and are time-consuming. This stands out as a primary limitation in tuning machine learning 
 models.
 
-6.5 Future improvement and research area
+<h3>Future improvement and research area</h3>
 
 The research highlights a key limitation related to the constrained time series dataset. Utilizing a 
 more extensive dataset could significantly enhance the performance of trained models. A larger 
